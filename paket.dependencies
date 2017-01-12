@@ -3,4 +3,5 @@ source https://ci.appveyor.com/nuget/fscheck
 
 nuget FsCheck 2.5.0-nunit3-b507
 nuget FsCheck.NUnit 2.5.0-nunit3-b507
+nuget NUnit.ConsoleRunner
 nuget NUnit3TestAdapter 3.6.0 version_in_path: true
